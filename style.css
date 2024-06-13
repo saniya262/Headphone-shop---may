@@ -1,0 +1,19 @@
+
+.card:hover{
+    box-shadow: 0 1px 2px 7px rgb(136, 126, 108);
+   transform: scale(1.07);
+   transition: transform 0.3s ease-in-out;
+   width: 320px;
+  }
+
+  .card-1:hover{
+    box-shadow: 0 1px 2px 7px rgb(149, 101, 6);
+   transform: scale(1.07);
+   transition: transform 0.3s ease-in-out;
+   width: 320px;
+   opacity: 0.5;
+   border-radius: 10px;
+  }
+ 
+  
+  
